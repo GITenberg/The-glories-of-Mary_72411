@@ -1,6 +1,9 @@
 _repo: The-glories-of-Mary_72411
 _version: 0.1.0
 alternative_title: Le glorie di Maria. English
+covers:
+- cover_type: archival
+  image_path: 72411-h/images/cover.jpg
 creator:
   author:
     agent_name: Liguori, Alfonso Maria de', Saint
@@ -16,6 +19,8 @@ creator:
     - https://it.wikipedia.org/wiki/Alfonso_Maria_de%27_Liguori
     - https://en.wikipedia.org/wiki/Alphonsus_Liguori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72411#The-glories-of-Mary
 edition_note: 2nd American edition.
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
